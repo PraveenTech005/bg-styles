@@ -83,12 +83,6 @@ Have a cool background idea? Feel free to contribute!
 
 ---
 
-## 📸 Preview
-
-![Preview Screenshot](./screenshot.png)
-
----
-
 ## 📄 License
 
 MIT License — Free to use in personal and commercial projects.
