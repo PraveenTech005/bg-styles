@@ -12,7 +12,7 @@ const App = () => {
       <Mapper title="Glass / Frosted UI Effects" comp={data.Glass} />
       <Mapper title="Dynamic & Abstract" comp={data.Dynamic} />
       <Mapper title="Patterns & Grids" comp={data.Patterns} />
-      <h1 className="fixed top-10 right-10 text-xl bg-gray-300/80 p-5 rounded-2xl">
+      <h1 className="fixed top-0 right-0 lg:top-10 lg:right-10 lg:text-xl bg-gray-300/80 p-2 px-5 lg:p-5 rounded-lg z-10 lg:rounded-2xl">
         Made by{" "}
         <a
           href="https://github.com/PraveenTech005"
